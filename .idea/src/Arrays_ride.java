@@ -4,7 +4,8 @@ import java.util.Arrays;
 public class Arrays_ride {
     public static void main(String[] args) {
 
-        System.out.println("Щасс будет конфликт");
+        System.out.println("Щасс будет конфликт из фичи брэнча");
+        System.out.println("Щасс будет конфликт из фичи брэнча чтоб наверняка");
 
 
         /*
