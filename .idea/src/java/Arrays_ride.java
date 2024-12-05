@@ -1,7 +1,7 @@
 import java.lang.reflect.Array;
 import java.util.Arrays;
 
-public class Array_ride {
+public class Arrays_ride {
     public static void main(String[] args) {
         /*
         july: 15.0, 18.9, 20.1, 23.4
