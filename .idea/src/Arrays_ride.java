@@ -3,6 +3,8 @@ import java.util.Arrays;
 
 public class Arrays_ride {
     public static void main(String[] args) {
+
+        System.out.println("Конфликт почти готов");
         /*
         july: 15.0, 18.9, 20.1, 23.4
         august: 25.1, 25.4, 24.5, 25.8, 28.6
