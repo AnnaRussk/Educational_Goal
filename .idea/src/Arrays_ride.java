@@ -4,8 +4,13 @@ import java.util.Arrays;
 public class Arrays_ride {
     public static void main(String[] args) {
 
+ feature-branch
+        System.out.println("Щасс будет конфликт из фичи брэнча");
+        System.out.println("Щасс будет конфликт из фичи брэнча чтоб наверняка");
+
         System.out.println("Щасс будет конфликт");
         System.out.println("Из мэйна будет конфликт");
+  main
 
 
         /*
