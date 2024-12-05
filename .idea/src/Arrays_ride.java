@@ -5,6 +5,7 @@ public class Arrays_ride {
     public static void main(String[] args) {
 
         System.out.println("Щасс будет конфликт");
+        System.out.println("Из мэйна будет конфликт");
 
 
         /*
